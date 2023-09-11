@@ -14,7 +14,7 @@ public class English {
 
     public static final String[] customLoginText = {
             "An account is not required to play",
-            "RuneJS, all you need to do is login",
+            "RuneScape, all you need to do is login",
             "with any username and password to",
             "create a character."
     };
